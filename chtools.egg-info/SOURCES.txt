@@ -1,0 +1,7 @@
+README.md
+setup.py
+chtools.egg-info/PKG-INFO
+chtools.egg-info/SOURCES.txt
+chtools.egg-info/dependency_links.txt
+chtools.egg-info/requires.txt
+chtools.egg-info/top_level.txt
