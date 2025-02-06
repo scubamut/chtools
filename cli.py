@@ -17,7 +17,7 @@
 import logging
 import argparse
 
-import chtools
+import chtools as ch
 
 # from chtools.ch_basics import Config, CompaniesHouseAPI, CompanyData, RegisteredOffice
 # from chtools.ch_utils import setup_logging, explore_nested_json, robust_nested_json_to_multi_df, play_sound_until_input

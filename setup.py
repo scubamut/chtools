@@ -12,7 +12,7 @@ setup(
     description='A package to interact with the UK Companies House API',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/scubamut/companies-house-project',
+    url='http://pypi.python.org/pypi/chtools/',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
