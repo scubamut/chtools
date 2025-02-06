@@ -7,7 +7,7 @@ setup(
     install_requires=[
         'requests',
     ],
-    author='daveG',
+    author='Dave Gilbert',
     author_email='scubamut@gmail.com',
     description='A package to interact with the UK Companies House API',
     long_description=open('README.md').read(),

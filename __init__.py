@@ -13,7 +13,8 @@ from chtools.get_endpoint_data import get_endpoint_data
 from chtools.explore_nested_json import explore_nested_json
 from chtools.robust_nested_json_to_multi_df import robust_nested_json_to_multi_df
 from chtools.play_sound_until_input import play_sound_until_input
-# from chtools.cli import cli
+from chtools.cli import cli
+from chtools.another import another
                                                        
 
 # __all__ = [
